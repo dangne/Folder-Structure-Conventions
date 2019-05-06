@@ -104,3 +104,6 @@ The text of a license is usually stored in the `LICENSE` (or `LICENSE.txt`,
 
 For more info on how to choose a license for an open source project, please
 refer to http://choosealicense.com
+
+### More conventions
+[https://stackoverflow.com/questions/16139424/how-to-logically-organize-source-files-in-c](https://stackoverflow.com/questions/16139424/how-to-logically-organize-source-files-in-c)
